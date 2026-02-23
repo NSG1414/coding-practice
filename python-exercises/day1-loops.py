@@ -1,3 +1,9 @@
 #My first Python Practice
-x = 5
-y = "Grace"
+friends = {
+{"name": "sarah", age: 21},
+{"name": "esther", age: 22},
+{"name": "pretty", age: 21},
+}
+print([name])
+
+         
