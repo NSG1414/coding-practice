@@ -13,6 +13,7 @@ while count > 0:
     count -= 1
 
 #list of my favourite food
-foods = [rice, goat, chicken, gnuts]
+foods = ["rice", "goat", "chicken", "gnuts"]
 for food in foods:
-    print("I love <" food ">")
+    print(f"I love, {food}")
+#print("i love", food)
