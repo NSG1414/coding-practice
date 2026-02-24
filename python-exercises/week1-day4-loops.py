@@ -6,6 +6,7 @@ for fruit in fruits:
 #i like banana
 #i like cherry
 
+#countdown below from 5 to 1
 count = 5
 while count > 0:
     print("Count is", count)
